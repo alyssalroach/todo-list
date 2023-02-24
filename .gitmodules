@@ -1,0 +1,3 @@
+[submodule "src/main/java/com/alyssa/nuarch/app"]
+	path = src/main/java/com/alyssa/nuarch/app
+	url = https://github.com/alyssalroach/todo-list
